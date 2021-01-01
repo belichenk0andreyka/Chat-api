@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin@chat.byzyp.mongodb.net/Chat?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
